@@ -1,0 +1,30 @@
+# Git
+.git
+.gitignore
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+
+# Build artifacts
+bin/
+*.exe
+
+# Documentation
+*.md
+LICENSE
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# CI/CD
+.github
+
+# Misc
+.env
+.env.*
+*.log
